@@ -1,0 +1,19 @@
+{
+  "name": "three-transform-controls",
+  "version": "1.0.0",
+  "description": "ThreeJS TransformControls as an npm module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelvarWorld/three-transform-controls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DelvarWorld/three-transform-controls/issues"
+  },
+  "homepage": "https://github.com/DelvarWorld/three-transform-controls#readme"
+}
